@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Hello &nbsp; নমস্কার &nbsp; Bonjour!
+title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -21,9 +21,10 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
+Hello &nbsp; নমস্কার &nbsp; Bonjour! 
 My name is Anuvabh. I'm a machine learning researcher, based in Paris, France.
 
 I'm interested in all things ```machine learning``` and all things ```code```. Currently I'm working on:
