@@ -882,6 +882,22 @@ figure.highlight {
   margin: 0 0 1rem;
 }
 
+// Add consistent spacing after tables
+// Apply to Bootstrap tables and common wrappers (incl. bootstrap-table plugin)
+.table {
+  margin-bottom: 1rem;
+}
+
+.table-responsive {
+  margin-bottom: 1rem;
+}
+
+.bootstrap-table,
+.fixed-table-container,
+.fixed-table-body {
+  margin-bottom: 1rem;
+}
+
 pre {
   color: var(--global-theme-color);
   background-color: var(--global-code-bg-color);
